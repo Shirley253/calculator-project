@@ -6,13 +6,14 @@
 
 ## Description
 
-_Learning javascrip and jquery_
+_Learning JavaScript and jQuery_
 
 ## Setup/Installation Requirements
 
 * _HTML_
 * _CSS_
 * _JS_
+* _jQuery_
 
 
 
